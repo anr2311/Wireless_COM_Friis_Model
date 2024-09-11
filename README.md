@@ -1,5 +1,5 @@
 # Modelling Path Loss and Received Power according Friis Equations
-This repo contains a set of MATLAB scripts that model the path loss and received power based on T-R separation according Friis Equations
+This repo contains a set of MATLAB scripts that model the path loss and received power based on T-R separation according Friis Equations.
 
 The Friis transmission formula is used in telecommunications engineering, equating the power at the terminals of a receive antenna as the product of power density of the incident wave and the effective aperture of the receiving antenna under idealized conditions given another antenna some distance away transmitting a known amount of power.
 
